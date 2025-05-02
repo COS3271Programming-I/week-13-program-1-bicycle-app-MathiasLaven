@@ -1,0 +1,23 @@
+What is the name of your bicycle's owner? 
+>>Jeremy
+What is your bicycle's type? 
+>>mountain
+What is your bicycle's current gear? 
+>>6
+What is your bicycle's current speed (MPH)? 
+>>15
+What is your bicycle's cadence (RPM)? 
+>>30
+
+Jeremy owns this mountain bicycle.
+Currently we are in gear 6 and going 15 MPH.
+The cadence is 30 RPM.
+
+Based on your cadence and current speed, your tires will rotate 120 times per mile.
+How many miles are you planning to go? 
+>>7
+With that distance, your tires will rotate 840 times and the trip will take 0 hours and 28 minutes.
+
+What is your weight in pounds? 
+>>150
+You will burn approximately 231.00 calories over this trip.
